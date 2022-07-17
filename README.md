@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishna seth</h1>
 <h3 align="center">A passionate MERN developer. Also trying my hands in App development</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/br99SojJZ5rlfSYset" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><link src="https://giphy.com/embed/br99SojJZ5rlfSYset" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></div>
 - 🔭 I’m currently working on **Senile Radio**
 
 - 🌱 I’m currently learning **Devops**
