@@ -1,6 +1,8 @@
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/043/309/264/large/andrew-averkin-cam-02-1.jpg?1636916579)]
+
 <h1 align="center">Hi 👋, I'm Krishna seth</h1>
 <h3 align="center">A passionate MERN developer. Also trying my hands in App development</h3>
-<img src="https://cdna.artstation.com/p/assets/images/images/043/309/264/large/andrew-averkin-cam-02-1.jpg?1636916579">
+
 - 🔭 I’m currently working on **Senile Radio**
 
 - 🌱 I’m currently learning **Devops**
