@@ -18,3 +18,4 @@ jobs:
           filename: metrics.terminal.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, metadata
+          plugin_introduction: yes
