@@ -1,3 +1,3 @@
-![Metrics](/metrics.terminal.svg)
+
 
 
